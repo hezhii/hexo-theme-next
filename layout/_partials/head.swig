@@ -2,8 +2,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <meta name="theme-color" content="{{ theme.android_chrome_color }}">
-<script src="//cdn.bootcss.com/pace/1.0.2/pace.min.js"></script>
-<link href="https://cdn.bootcss.com/pace/1.0.2/themes/black/pace-theme-flash.min.css" rel="stylesheet">
 
 
 {% if theme.pace %}

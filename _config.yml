@@ -329,7 +329,7 @@ baidu_analytics: a8717372d181904534e317776846f9df
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: hezhou
   count: true
 
@@ -360,7 +360,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: MTAyMC8zMDQ0Ny83MDAx
+livere_uid: MTAyMC8zMDQ0Ny83MDAx
 
 # Baidu Share
 # Available value:
